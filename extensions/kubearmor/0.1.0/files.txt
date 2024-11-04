@@ -1,0 +1,17 @@
+plugin/img/icon.04fa37b1.svg
+plugin/img/kubearmor.129e1b02.svg
+plugin/kubearmor-0.1.0.umd.min.6.js
+plugin/kubearmor-0.1.0.umd.min.6.js.map
+plugin/kubearmor-0.1.0.umd.min.edit.js
+plugin/kubearmor-0.1.0.umd.min.edit.js.map
+plugin/kubearmor-0.1.0.umd.min.formatters.js
+plugin/kubearmor-0.1.0.umd.min.formatters.js.map
+plugin/kubearmor-0.1.0.umd.min.js
+plugin/kubearmor-0.1.0.umd.min.js.map
+plugin/kubearmor-0.1.0.umd.min.list.js
+plugin/kubearmor-0.1.0.umd.min.list.js.map
+plugin/kubearmor-0.1.0.umd.min.vendors~edit.js
+plugin/kubearmor-0.1.0.umd.min.vendors~edit.js.map
+plugin/kubearmor-0.1.0.umd.min.vendors~markdown.js
+plugin/kubearmor-0.1.0.umd.min.vendors~markdown.js.map
+plugin/package.json
